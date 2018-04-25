@@ -21,7 +21,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  *
- * @author Morgan.Augustsson
+ * @author Morgan.Augustsson Hejsan
  */
 @Stateless
 @Path("service.konto")
